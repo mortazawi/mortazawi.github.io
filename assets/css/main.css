@@ -715,6 +715,95 @@
 	  font-size: 1em;
 	}
 
+
+
+
+
+	#news .card_wrapper {
+		text-align: left;
+		text-transform: none !important;
+		letter-spacing: 0.5px;
+		line-height: 1.5em;
+	}
+	#news h3 {
+		font-weight: 600;
+		font-size: 1.2em;
+		padding-top: 10px;
+		border-top: 1px solid #dedede;
+	}
+	#news .card_wrapper a {
+		text-decoration: none;
+	}
+	#news ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		font-weight: 600
+	}
+	#news ul li {
+	  margin-bottom: 30px;
+		padding: 0 0 0 10px;
+		border-left: 2px solid #dedede;
+	}
+	#news ul ul {
+		font-weight: 300;
+	}
+	#news ul ul li {
+		margin-bottom: 0;
+		padding: 0;
+		border-left: none;
+	}
+	#news ul ul li {
+	  font-size: 0.9em;
+	}
+	#news ul ul li:first-child {
+	  font-size: 1em;
+	}
+
+
+
+
+	#contact .card_wrapper {
+		text-align: left;
+		text-transform: none !important;
+		letter-spacing: 0.5px;
+		line-height: 1.5em;
+	}
+	#contact h3 {
+		font-weight: 600;
+		font-size: 1.2em;
+		padding-top: 10px;
+		border-top: 1px solid #dedede;
+	}
+	#contact .card_wrapper a {
+		text-decoration: none;
+	}
+	#contact ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		font-weight: 600
+	}
+	#contact ul li {
+	  margin-bottom: 30px;
+		padding: 0 0 0 10px;
+		border-left: 2px solid #dedede;
+	}
+	#contact ul ul {
+		font-weight: 300;
+	}
+	#contact ul ul li {
+		margin-bottom: 0;
+		padding: 0;
+		border-left: none;
+	}
+	#contact ul ul li {
+	  font-size: 0.9em;
+	}
+	#contact ul ul li:first-child {
+	  font-size: 1em;
+	}
+
 	
 	
 
