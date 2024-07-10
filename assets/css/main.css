@@ -937,7 +937,7 @@ nav {
 }
 
 nav a {
-    margin: 5px 10px; /* Reduced margin for better alignment */
+    margin: 0px 10px; /* Reduced margin for better alignment */
     flex: 1 1 10px; /* Adjust the width as needed */
     text-align: center;
     padding: 10px;
