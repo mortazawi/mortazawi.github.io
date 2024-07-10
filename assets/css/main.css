@@ -926,23 +926,15 @@
 			transform: rotateX(15deg);
 		}
 		
-nav {
-    border-top: 1px solid #dedede;
-    border-bottom: 1px solid #dedede;
-    margin-bottom: 10px;
-    padding: 10px 0;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
-nav a {
-    margin: 0px 10px; /* Reduced margin for better alignment */
-    flex: 1 1 10px; /* Adjust the width as needed */
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box; /* Ensures padding is included in the width */
-}
+		nav {
+			border-top: 1px solid #dedede;
+			border-bottom: 1px solid #dedede;
+			margin-bottom: 10px;
+			padding: 10px 0;
+		}
+		nav a {
+			margin: 0 10px;
+		}
 
 /* Footer */
 
