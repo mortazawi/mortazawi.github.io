@@ -13,24 +13,25 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 News
 ======
+
 2024
 ------
-- **[Dec '24]** Our paper is accepted to [IEEE WCNC 2025](https://wcnc2025.ieee-wcnc.org/) in Milan, Italy.  
-- **[Dec '24]** Received the offer to join the [Vector Institute](https://vectorinstitute.ai/) as a Machine Learning Associate.  
+[Dec '24] Our paper is accepted to [IEEE WCNC 2025](https://wcnc2025.ieee-wcnc.org/) in Milan, Italy.  
+[Dec '24] Received the offer to join the [Vector Institute](https://vectorinstitute.ai/) as a Machine Learning Associate.  
 
 2023
 ------
-- **[Dec '23]** Our paper is accepted to [IEEE WCNC 2024](https://wcnc2024.ieee-wcnc.org/) in Dubai, UAE.  
-- **[Oct '23]** Secured an internship position (machine learning intern) at [Ericsson](https://www.ericsson.com/en).  
-- **[Sep '23]** Defended my thesis proposal and achieved PhD candidacy.  
-- **[Aug '23]** Our paper is accepted to [IEEE GLOBECOM 2023](https://globecom2023.ieee-globecom.org/) in Kuala Lumpur, Malaysia.  
-- **[Jun '23]** Our paper is accepted to [IEEE PIMRC 2023](https://pimrc2023.ieee-pimrc.org/) in Toronto, Canada.  
+[Dec '23] Our paper is accepted to [IEEE WCNC 2024](https://wcnc2024.ieee-wcnc.org/) in Dubai, UAE.  
+[Oct '23] Secured an internship position (machine learning intern) at [Ericsson](https://www.ericsson.com/en).  
+[Sep '23] Defended my thesis proposal and achieved PhD candidacy.  
+[Aug '23] Our paper is accepted to [IEEE GLOBECOM 2023](https://globecom2023.ieee-globecom.org/) in Kuala Lumpur, Malaysia.  
+[Jun '23] Our paper is accepted to [IEEE PIMRC 2023](https://pimrc2023.ieee-pimrc.org/) in Toronto, Canada.  
 
 2022
 ------
-- **[Oct '22]** Successfully passed the PhD qualifying examination.  
+[Oct '22] Successfully passed the PhD qualifying examination.  
 
 2021
 ------
-- **[Sep '21]** Joined the [Department of Electrical and Computer Engineering](https://www.ece.utoronto.ca/) at the University of Toronto for my PhD program.  
+[Sep '21] Joined the [Department of Electrical and Computer Engineering](https://www.ece.utoronto.ca/) at the University of Toronto for my PhD program.  
 
