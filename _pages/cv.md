@@ -23,4 +23,8 @@ Work experience
 * Winter 2024: Machine Learning Intern 
   * Ericsson, Montreal, CA
 
+<div class="cv-download-links">
+  <a href="mortazawi.github.io/files/cv.pdf" class="btn btn--inverse">View CV</a>
+  <a href="mortazawi.github.io/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
+</div>
 
