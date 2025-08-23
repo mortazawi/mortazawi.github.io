@@ -12,6 +12,10 @@ I am a PhD candidate in Electrical and Computer Engineering at the University of
 News
 ======
 
+2025
+------
+[Aug '25] Successfully passed the PhD Departmental Oral Examination. 
+
 2024
 ------
 [Dec '24] Our paper is accepted to [IEEE WCNC 2025](https://wcnc2025.ieee-wcnc.org/) in Milan, Italy.  
@@ -20,7 +24,7 @@ News
 2023
 ------
 [Dec '23] Our paper is accepted to [IEEE WCNC 2024](https://wcnc2024.ieee-wcnc.org/) in Dubai, UAE.  
-[Oct '23] Secured an internship position (machine learning intern) at [Ericsson](https://www.ericsson.com/en).  
+[Oct '23] Secured an internship position (Machine Learning Intern) at [Ericsson](https://www.ericsson.com/en).  
 [Sep '23] Defended my thesis proposal and achieved PhD candidacy.  
 [Aug '23] Our paper is accepted to [IEEE GLOBECOM 2023](https://globecom2023.ieee-globecom.org/) in Kuala Lumpur, Malaysia.  
 [Jun '23] Our paper is accepted to [IEEE PIMRC 2023](https://pimrc2023.ieee-pimrc.org/) in Toronto, Canada.  
