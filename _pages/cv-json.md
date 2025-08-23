@@ -11,7 +11,9 @@ redirect_from:
 
 {% include cv-template.html %}
 
+<img src='/files/cv.pdf'>
+
 <div class="cv-download-links">
-  <a href="mortazawi.github.io/files/cv.pdf" class="btn btn--inverse">View CV</a>
+<!--   <a href="mortazawi.github.io/files/cv.pdf" class="btn btn--inverse">View CV</a> -->
   <a href="mortazawi.github.io/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
 </div>
