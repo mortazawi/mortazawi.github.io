@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD candidate in Electrical and Computer Engineering at the University of Toronto with [Prof. Elvino S. Sousa](https://www.ece.utoronto.ca/people/sousa-e-s/) as my advisor. My research focuses on developing data-driven machine learning models for large-scale optimization problems. I specialize in graph neural networks and transformer architectures for structured data. My goal is to design intelligent, reliable, and scalable AI solutions that bridge cutting-edge research with real-world applications.
 
-News
+## News
 ======
 
 2025
