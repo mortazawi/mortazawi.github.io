@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. degree in Electrical and Computer Engineering from the University of Toronto, Canada, in 2025, under the supervision of [Prof. Elvino S. Sousa](https://www.ece.utoronto.ca/people/sousa-e-s/). My research ranges from data-driven machine learning for large-scale distributed optimization to graph neural networks and transformer-based architectures for structured data. I strive to develop intelligent, reliable, and scalable AI systems that translate cutting-edge research into real-world impact.
+I received my Ph.D. degree in Electrical and Computer Engineering from the University of Toronto, Canada, in 2025, under the supervision of [Prof. Elvino S. Sousa](https://www.ece.utoronto.ca/people/sousa-e-s/). My research ranges from data-driven machine learning techniques for large-scale distributed optimization to graph neural networks and transformer-based architectures for structured data. I strive to develop intelligent, reliable, and scalable AI systems that translate cutting-edge research into real-world impact.
 
 ## News
 
