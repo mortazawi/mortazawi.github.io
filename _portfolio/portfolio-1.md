@@ -1,6 +1,6 @@
 ---
 title: "Generative AI"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Generative AI creates new content by modeling complex patterns in existing datasets. Unlike traditional AI systems, it goes beyond classification or prediction to generate novel outputs that resemble human creativity. It supports decision-making with synthetic data for scenarios where real data is scarce or sensitive.<br/><img src='/images/500x300.png'>"
 collection: Research Interests
 ---
 
