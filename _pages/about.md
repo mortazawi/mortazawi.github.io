@@ -31,5 +31,5 @@ I received my Ph.D. degree in Electrical and Computer Engineering from the Unive
 
 [Oct '22] Successfully passed the PhD qualifying examination.  
 
-[Sep '21] Joined the [Department of Electrical and Computer Engineering](https://www.ece.utoronto.ca/) at the University of Toronto for my PhD program.  
+[Sep '21] Joined the [Electrical and Computer Engineering Department](https://www.ece.utoronto.ca/) at the University of Toronto to pursue my PhD studies.  
 
