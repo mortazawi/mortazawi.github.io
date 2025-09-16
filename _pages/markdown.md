@@ -77,7 +77,3 @@ redirect_from:
 ### Fall 2024
 
 * INF2190: Data Analytics (Introduction, Methods and Practical Approaches)
-
-
-The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
-
