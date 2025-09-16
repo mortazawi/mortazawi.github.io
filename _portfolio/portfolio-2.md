@@ -1,6 +1,6 @@
 ---
 title: "Transformers, LLMs, NLP"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Large Language Models (LLMs), such as GPT, BERT, and LLaMA, are built on the Transformer architecture and trained on massive corpora of text. By leveraging billions of parameters and advanced pretraining strategies, LLMs acquire the ability to generate coherent text, answer questions, summarize content, perform reasoning tasks, and adapt to diverse downstream applications with minimal fine-tuning.<br/><img src='/images/500x300.png'>"
 collection: Research Interests
 ---
 
