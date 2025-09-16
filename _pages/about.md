@@ -10,7 +10,7 @@ redirect_from:
 I received my Ph.D. degree in Electrical and Computer Engineering from the University of Toronto, Canada, in 2025, under the supervision of [Prof. Elvino S. Sousa](https://www.ece.utoronto.ca/people/sousa-e-s/). My research ranges from data-driven machine learning for large-scale distributed optimization to graph neural networks and transformer-based architectures for structured data. I strive to develop intelligent, reliable, and scalable AI systems that translate cutting-edge research into real-world impact.
 
 ## News
-[Apr '25] Officially awarded the PhD by defending my thesis at the Final Oral Examination.
+[Sep '25] Officially awarded the PhD by defending my thesis at the Final Oral Examination.
 [Aug '25] Successfully passed the PhD Departmental Oral Examination. 
 [Dec '24] Our paper is accepted to [IEEE WCNC 2025](https://wcnc2025.ieee-wcnc.org/) in Milan, Italy.  
 [Dec '24] Received the offer to join the [Vector Institute](https://vectorinstitute.ai/) as a Machine Learning Associate.  
