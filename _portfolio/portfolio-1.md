@@ -4,4 +4,4 @@ excerpt: "Generative Artificial Intelligence (GenAI) creates new content by mode
 collection: Research Interests
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The future of generative AI will increasingly center on agentic systems—models that don’t just respond to prompts but can act autonomously, plan ahead, and execute multi-step tasks with minimal human supervision. These AI agents will function more like digital coworkers, capable of integrating tools, APIs, and databases to carry out workflows end-to-end. In enterprise settings, they could handle everything from customer support and data analysis to supply-chain optimization, while coordinating with other agents in complex ecosystems. The challenge will be balancing autonomy with safety, ensuring robust oversight, accountability, and guardrails against unintended actions.
