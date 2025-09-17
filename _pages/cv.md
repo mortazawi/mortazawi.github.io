@@ -9,20 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D. in Electrical and Computer Engineering, University of Toronto, 2025
-* M.Sc. in Electrical Engineering, Sharif University of Technology, 2018
-* B.Sc. in Electrical Engineering, Iran University of Science and Technology, 2016
-
-Work experience
-======
-* Winter 2025: Machine Learning Associate 
-  * Vector Institute
-
-* Winter 2024: Machine Learning Intern
-  * Ericsson
-
 {% include cv-template.html %}
 
 <div class="cv-download-links">
