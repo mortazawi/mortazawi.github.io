@@ -1,6 +1,6 @@
 ---
 title: ""
-excerpt: "<h3>* Graph Machine Learning<br/>* Intelligent Autonomous Systems<br/>* Deep Neural Networks<br/>* Strategic Decision Making<br/>* Optimization Theory<h3/>"
+excerpt: "<h3>- Graph Machine Learning<br/>- Intelligent Autonomous Systems<br/>- Deep Neural Networks<br/>- Strategic Decision Making<br/>- Optimization Theory<h3/>"
 collection: Research Interests
 ---
 
