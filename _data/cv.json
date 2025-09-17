@@ -2,42 +2,42 @@
   "education": [
     {
       "institution": "University of Toronto",
-      "area": "Doctor of Philosophy (PhD) – Electrical and Computer Engineering",
+      "area": "Ph.D. in Electrical and Computer Engineering",
       "studyType": "",
-      "startDate": "2021",
-      "endDate": "2025",
+      "startDate": "",
+      "endDate": "2021 - 2025",
       "gpa": null,
       "courses": []
     },
     {
       "institution": "Sharif University of Technology",
-      "area": "Master of Science (MSc) – Electrical Engineering",
+      "area": "M.Sc. in Electrical Engineering",
       "studyType": "",
-      "startDate": "2016",
-      "endDate": "2018",
+      "startDate": "",
+      "endDate": "2016 - 2018",
       "gpa": null,
       "courses": []
     },
     {
       "institution": "Iran University of Science and Technology",
-      "area": "Bachelor of Science (BSc) – Electrical Engineering",
+      "area": "B.Sc. in Electrical Engineering",
       "studyType": "",
-      "startDate": "2012",
-      "endDate": "2016",
+      "startDate": "",
+      "endDate": "2012 - 2016",
       "gpa": null,
       "courses": []
     }
   ],
   "work": [
     {
-      "institution": "Vector Institute",
+      "name": "Vector Institute",
       "position": "Machine Learning Associate",
       "location": "Toronto, CA",
       "startDate": "January 2025",
       "endDate": "May 2025"
     },
     {
-      "institution": "Ericsson",
+      "name": "Ericsson",
       "position": "Machine Learning Intern",
       "location": "Montreal, CA",
       "startDate": "January 2024",
