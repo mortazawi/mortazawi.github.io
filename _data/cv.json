@@ -33,15 +33,16 @@
       "institution": "Vector Institute",
       "position": "Machine Learning Associate",
       "location": "Toronto, CA",
-      "startDate": "Jan. 2025",
-      "endDate": "May. 2025"
+      "startDate": "January 2025",
+      "endDate": "May 2025"
     },
     {
       "institution": "Ericsson",
       "position": "Machine Learning Intern",
       "location": "Montreal, CA",
-      "startDate": "Jan. 2024",
-      "endDate": "Apr. 2024"
+      "startDate": "January 2024",
+      "endDate": "April 2024"
+    }
     }
   ]
 }
