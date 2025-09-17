@@ -11,10 +11,10 @@ I received my Ph.D. degree in Electrical and Computer Engineering from the Unive
 
 ## News
 
-### [Sep '25] Officially awarded the PhD by defending my thesis at the Final Oral Examination.  
-### [Aug '25] Successfully passed the PhD Departmental Oral Examination.  
-### [Dec '24] Our paper is accepted to [IEEE WCNC 2025](https://wcnc2025.ieee-wcnc.org/) in Milan, Italy.  
-### [Dec '24] Received the offer to join the [Vector Institute](https://vectorinstitute.ai/) as a Machine Learning Associate.   
+#### [Sep '25] Officially awarded the PhD by defending my thesis at the Final Oral Examination.  
+#### [Aug '25] Successfully passed the PhD Departmental Oral Examination.  
+#### [Dec '24] Our paper is accepted to [IEEE WCNC 2025](https://wcnc2025.ieee-wcnc.org/) in Milan, Italy.  
+#### [Dec '24] Received the offer to join the [Vector Institute](https://vectorinstitute.ai/) as a Machine Learning Associate.   
 ### [Dec '23] Our paper is accepted to [IEEE WCNC 2024](https://wcnc2024.ieee-wcnc.org/) in Dubai, UAE.   
 ### [Oct '23] Secured an internship position (Machine Learning Intern) at [Ericsson](https://www.ericsson.com/en).   
 ### [Sep '23] Defended my thesis proposal and achieved PhD candidacy.   
