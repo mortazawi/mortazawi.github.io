@@ -21,5 +21,5 @@ I received my Ph.D. degree in Electrical and Computer Engineering from the Unive
 #### [Aug '23] Our paper is accepted to [IEEE GLOBECOM 2023](https://globecom2023.ieee-globecom.org/) in Kuala Lumpur, Malaysia.   
 #### [Jun '23] Our paper is accepted to [IEEE PIMRC 2023](https://pimrc2023.ieee-pimrc.org/) in Toronto, Canada.   
 #### [Oct '22] Successfully passed the PhD qualifying examination.   
-#### [Sep '21] Joined the [Electrical and Computer Engineering Department](https://www.ece.utoronto.ca/) at the University of Toronto to pursue my PhD studies.  
+#### [Sep '21] Joined the PhD program in [Electrical and Computer Engineering Department](https://www.ece.utoronto.ca/) at the University of Toronto.  
 
